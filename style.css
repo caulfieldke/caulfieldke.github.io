@@ -82,7 +82,7 @@ button a{
   color: white;
   border-color: tomato;
   border-width: thick;
-  padding: 15px;
+  padding: 0px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
