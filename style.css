@@ -72,8 +72,6 @@ hr {
 .rectangle {
   display: flex;
   justify-content: center;
-  border: none;
-  background-color: transparent;
 }
 
 button a{
