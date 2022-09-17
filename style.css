@@ -80,7 +80,8 @@ button a{
   justify-content: center;
   background-color: tomato;
   color: white;
-  outline: : none;
+  border-color: tomato;
+  border-width: thick;
   padding: 15px;
   text-align: center;
   text-decoration: none;
