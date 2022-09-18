@@ -71,7 +71,12 @@ hr {
 }
 .rectangle {
   display: flex;
-  justify-content: center;
+  justify-content: center; 
+}
+
+button {
+  border: none;
+  background-color: transparent;
 }
 
 button a{
@@ -90,6 +95,7 @@ button a{
   margin: 4px 2px;
   cursor: pointer;
 }
+
 .rectangle1 {
   display: flex;
   justify-content: center;
