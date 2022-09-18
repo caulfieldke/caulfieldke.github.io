@@ -113,3 +113,36 @@ button a{
   width: 10em;
   text-align: center;
 }
+
+@media (max-width: 30rem){
+  h1{
+    font-family:'raleway', sans-serif;
+    font-size:50px;
+    color: tomato;
+    text-align:center;
+  }
+  p{
+    font-family:'EB Garamond',serif;
+    font-size:28px;
+    color:#242424;
+    text-align: left;
+    margin-right: 1.75rem;
+    margin-left: 1.75rem;
+    line-height: 2rem;
+  }
+  nav a {
+  margin-right: 1.5rem;
+  font-family: 'raleway',sans-serif;
+  }
+  .footer {
+  display: flex;
+  width: 103.5vw;
+  justify-content: space-around;
+  }
+  hr{
+  margin-right: 3rem;
+  margin-left: 3rem;
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem; 
+  }
+}
