@@ -117,13 +117,13 @@ button a{
 @media (max-width: 30rem){
   h1{
     font-family:'raleway', sans-serif;
-    font-size:50px;
+    font-size:40px;
     color: tomato;
     text-align:center;
   }
   p{
     font-family:'EB Garamond',serif;
-    font-size:28px;
+    font-size:24px;
     color:#242424;
     text-align: left;
     margin-right: 1.75rem;
