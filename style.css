@@ -136,7 +136,8 @@ button a{
   }
   .footer {
   display: flex;
-  width: 105vw;
+  font-size: 16px;
+  width: 103.5vw;
   justify-content: space-around;
   }
   hr{
